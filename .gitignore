@@ -53,3 +53,6 @@ dkms.conf
 
 # debug information files
 *.dwo
+# Local test data and editor settings
+students.dat
+.vscode/
